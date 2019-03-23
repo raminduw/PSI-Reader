@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PSI</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="loading">Loading...</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+
+
+    <string name="history_nav">History</string>
+    <string name="settings_nav">Settings</string>
+    <string name="psi_nav">PSI</string>
+
+
+    <string name="north">North</string>
+    <string name="south">South</string>
+    <string name="west">West</string>
+    <string name="east">East</string>
+    <string name="central">Central</string>
+    <string name="national">National</string>
+
+    <string name="region">Region</string>
+    <string name="pm25">PM25(Hourly)</string>
+    <string name="psi">PSI(Hourly)</string>
+
+
+    <string name="error_message">Not able to download data.</string>
+
+    <string name="history_message">History details.</string>
+    <string name="settings_message">Application settings.</string>
+
+    <string name="psi_value" formatted="false">PSI Value: %1s</string>
+
+
+</resources>

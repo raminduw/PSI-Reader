@@ -44,7 +44,7 @@ API end points
 <br />@GET("https://api.data.gov.sg/v1/environment/psi")
 
 ### Screens:
-![screen_1](https://user-images.githubusercontent.com/5441853/54861649-aa8f5080-4d67-11e9-8e94-dca9a4009fb1.png)
-![screen_3](https://user-images.githubusercontent.com/5441853/54861650-acf1aa80-4d67-11e9-85f3-db7eb9a281d5.png)
-![screen_2](https://user-images.githubusercontent.com/5441853/54861651-af540480-4d67-11e9-9dd2-6880dff63e38.png)
+![screen_3](https://user-images.githubusercontent.com/5441853/54861667-08bc3380-4d68-11e9-932c-664b004ad2a7.png)
+![screen_2](https://user-images.githubusercontent.com/5441853/54861668-0a85f700-4d68-11e9-854f-26a10e13ad4a.png)
+![screen_1](https://user-images.githubusercontent.com/5441853/54861669-0d80e780-4d68-11e9-8f41-c7709f0f1909.png)
 

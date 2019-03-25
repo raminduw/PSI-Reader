@@ -22,7 +22,7 @@ Application Configuration
  <br />buildToolsVersion "26.0.2"
  <br />minSdkVersion 19
  <br />targetSdkVersion 26
- <br />applicationId "exam.sp.android.raminduweeraman.spexam"
+ <br />applicationId "psi.sp.android.raminduweeraman.com"
     
 Architecture
 =============
